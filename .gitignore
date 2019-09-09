@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# output files
+last_time.txt
+*.csv
+*.nc
+*.h5
+*.npy
+*.npz
+*.zarr/
+
