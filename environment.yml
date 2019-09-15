@@ -8,6 +8,7 @@ dependencies:
   - fastparquet
   - gdal
   - h5py
+  - jupyterlab
   - netcdf4
   - pillow
   - pip
