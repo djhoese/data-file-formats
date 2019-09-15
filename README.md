@@ -12,7 +12,7 @@ using a file format for a particular use case.
 The notebooks and scripts in this repository can be run on Binder by clicking
 the button below:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djhoese/data-file-formats/master?filepath=data_files.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/djhoese/data-file-formats/master?urlpath=lab/tree/data_files.ipynb)
 
 ## Install Locally
 

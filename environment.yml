@@ -2,13 +2,15 @@ name: data_files
 channels:
   - conda-forge
 dependencies:
+  - bokeh
   - curl
   - dask
   - distributed
   - fastparquet
   - gdal
   - h5py
-  - jupyterlab
+  - jupyterlab>=1.0
+  - matplotlib
   - netcdf4
   - pillow
   - pip
