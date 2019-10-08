@@ -105,10 +105,13 @@ venv.bak/
 
 # output files
 last_time.txt
+*.dat
 *.csv
 *.nc
 *.h5
 *.npy
 *.npz
 *.zarr/
+*.parq
+*.parq/
 
