@@ -16,6 +16,7 @@ dependencies:
   - pip
   - pyarrow
   - pyhdf
+  - pytables
   - python=3.7
   - pyyaml
   - rasterio
